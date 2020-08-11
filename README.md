@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey :stuck_out_tongue:
+
+My name is Christian full stack developer in my spare time experienced 2+ years. In love with Go lang, modeling databases and design backend systems.
+
+I write some things in [Nerdi Blog](https://nerdireto.com.br/blog) either.
+
+More details in my [Linkedin](https://www.linkedin.com/in/christian-seki/)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iamseki/iamseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
