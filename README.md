@@ -1,8 +1,6 @@
 ### Hey :stuck_out_tongue:
 
-My name is Christian full stack developer in my spare time experienced 2+ years. In love with Go lang, modeling databases and design backend systems.
-
-I write some things in [Nerdi Blog](https://nerdireto.com.br/blog) either.
+My name is Christian full stack developer in my spare time experienced 2+ years. In love with Go lang, modeling databases and design backend systems.I write some things in [Nerdi Blog](https://nerdireto.com.br/blog) either.
 
 More details in my [Linkedin](https://www.linkedin.com/in/christian-seki/)
 
