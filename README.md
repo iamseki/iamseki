@@ -5,8 +5,7 @@ My name is Christian full stack developer in my spare time experienced 2+ years.
 [![Linkedin Badge](https://img.shields.io/badge/-Christian%20Seki-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-seki/)](https://www.linkedin.com/in/christian-seki/) 
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamseki&hide=javascript,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **iamseki/iamseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
