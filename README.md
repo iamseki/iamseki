@@ -1,6 +1,6 @@
 ### Hey :stuck_out_tongue:
 
-My name is Christian full stack developer in my spare time experienced 2+ years. In love with statically typed languages, modeling databases and design backend systems. I also enjoy hanging out with my family and play the guitar in my free time :guitar:
+My name is Christian full stack developer in my spare time experienced 3+ years. In love with statically typed languages, modeling databases and design backend systems. I also enjoy hanging out with my family and play the guitar in my free time :guitar:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Christian%20Seki-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-seki/)](https://www.linkedin.com/in/christian-seki/) 
 
