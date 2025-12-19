@@ -1,6 +1,6 @@
 ### Hey :stuck_out_tongue:
 
-Hey! I'm Christian Seki, a software engineer with more than 5 years of experience. In love with statically typed languages, databases, and designing backend systems. I also enjoy hanging out with my family and playing the guitar in my spare time :guitar:.
+Hey! I'm Christian Seki, a software engineer with more than 6 years of experience. In love with statically typed languages, databases, and designing backend systems. I also enjoy hanging out with my family and playing the guitar in my spare time :guitar:.
 
 I write technical articles on [dev.to](https://dev.to/chseki) about design patterns, solving performance issues, and distributed systems.
 
